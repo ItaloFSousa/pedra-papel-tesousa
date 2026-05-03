@@ -6,6 +6,8 @@ Um jogo simples de Pedra, Papel e Tesoura rodando no terminal usando Node.js.
 
 Projeto simples feito para aprendizado e prática com Node.js e lógica básica.
 
+---
+
 ## 🚀 Sobre
 
 Este projeto foi criado com o objetivo de praticar:
@@ -13,6 +15,8 @@ Este projeto foi criado com o objetivo de praticar:
 * Entrada e saída no terminal (CLI)
 * Lógica de jogo
 * Uso do módulo `readline` do Node.js
+
+---
 
 ## ▶️ Como executar
 
@@ -34,6 +38,8 @@ cd pedra-papel-tesousa
 node index.js
 ```
 
+---
+
 ## 🎮 Como jogar
 
 * Escolha **1** para iniciar o jogo
@@ -44,6 +50,8 @@ node index.js
   * ✂️ Tesoura
 * O bot escolherá uma opção aleatória
 * O resultado será exibido no terminal
+
+---
 
 ## 📌 Regras
 
