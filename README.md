@@ -1,4 +1,4 @@
-# Pedra, Papel e Tesoura (CLI)
+# 🪨📜✂️ Pedra, Papel e Tesoura (CLI)
 
 Um jogo simples de Pedra, Papel e Tesoura rodando no terminal usando Node.js.
 
