@@ -20,21 +20,9 @@ Este projeto foi criado com o objetivo de praticar:
 
 ## ▶️ Como executar
 
-1. Clone o repositório:
-
-```
-git clone https://github.com/ItaloFSousa/pedra-papel-tesousa
-```
-
-2. Acesse a pasta:
-
-```
-cd pedra-papel-tesousa
-```
-
-3. Execute o arquivo:
-
-```
+```bash
+git clone https://github.com/ItaloFSousa/truco
+cd truco
 node index.js
 ```
 
